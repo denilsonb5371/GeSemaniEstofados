@@ -22,6 +22,7 @@
         background-attachment: fixed;
         margin: auto;
         padding: 10px 10px;
+        width: auto; 
 
         }
 
@@ -31,8 +32,8 @@ header{
     background-size: 100%;
     margin: auto;
     padding: 10px 10px;
-    width: 800px;
-    height: 500px;
+    height: auto;
+    width: auto;
 }
 
 header div{
