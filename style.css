@@ -305,6 +305,7 @@ background-color: var(--cor1);
 }
 
 aside{
+    background-color: aliceblue;
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 10px;
